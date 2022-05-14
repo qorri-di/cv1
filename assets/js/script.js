@@ -1,3 +1,8 @@
+//      Nama  : Qorri Dwi Istajib 
+//      NIM   : 210401070069
+//      Kelas : IT 203
+//      Makul : Pemrogrammman Web 1
+
 $(document).ready(function(){
 
     $('#menu').click(function(){
