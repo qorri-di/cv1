@@ -112,22 +112,16 @@ header .user .post{
     color:#eee;
 }
 
-header .user ul{
-    list-style: none;
-    padding:1rem 3rem;
+.icon a
+{
+    color: #fff;
+    font-size: 4rem;
+    margin:2rem .5rem;
+    transition: .2s linear;
 }
 
-header .user ul li a{
-    display: ;
-    padding:1rem;
-    background:#333;
-    color:#fff;
-    font-size: 2rem;
-    margin: 5px 80px;
-}
-
-header .user ul li a:hover{
-    background:var(--green);
+.icon a:hover{
+    color:var(--green);
 }
 
 header .navbar{
